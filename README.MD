@@ -16,6 +16,6 @@ Command ``cd CloudPass && chmod +x start.sh && clear && ./start.sh;``
 
 #  How does it work?
 It works by jailbreaking the device which we can get SSH control over it, after that we just force kill setup app.
-Works on Supported on devices on iOS 15.0 - 16.6.1 (A9 - A11) and arm64e (A12 - A16, M1 - M2) 
+Supported devices iOS 15.0 - 16.6.1 (A9 - A11) and arm64e (A12 - A16, M1 - M2) 
 
 [![telegram Badge](https://img.shields.io/badge/-@Bu3srh-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/Bu3srh)
